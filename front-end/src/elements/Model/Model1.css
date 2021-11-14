@@ -1,0 +1,27 @@
+.form2, .form2 input{
+     display: block;
+
+}
+
+.form2 input[type=text],.form2 input[type=email],.form2 input[type=number],.form2 input[type=password]{
+     margin-top: 20px;
+    margin-left: 20px;
+    width: 50%;
+    padding: 12px 20px;
+    margin: 8px 0;
+   
+    border: 1px solid #ccc;
+    border-radius: 4px;
+   
+}
+
+#conditions{
+    display: inline-block;
+}
+
+.Post_signup .moveup{
+    position:absolute;
+    left: 55%;
+    margin-top: -37px; 
+    
+}

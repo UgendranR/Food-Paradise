@@ -1,0 +1,55 @@
+name:Mcdonald's
+phoneNumber:8748287482
+location:Om Sakthi Plaza, 226, Kilpauk Garden Road, Kilpauk, Chennai, Tamil Nadu 600010
+email:contact@Mcdonalds.com
+imageUrl:https://media.designrush.com/inspiration_images/134933/conversions/_1511456189_555_McDonald's-desktop.jpg
+password:12345678
+confirmPassword:12345678
+
+name:Pizza Hut
+phoneNumber:7858265847
+location:C43, 2nd Ave, Anna Nagar, Anna Nagar West, Anna Nagar, Chennai, Tamil Nadu 600040
+email:enquiry@pizzahut.com
+imageUrl:https://im.whatshot.in/img/2021/Feb/pizza-hut-1613034841.jpg
+
+name:Domino's Pizza
+phoneNumber:9521598953
+location:New No. 51, Old No. 166 Junction of Gandhi Rd. & Mudichur Rd, Gandhi Rd, Tambaram West, Tambaram, Chennai, Tamil Nadu 600045
+email:customercare@dominos.com
+imageUrl:https://www.limerick.ie/sites/default/files/styles/hero_image/public/media/images/2017-01/Domino%27s%20Pizza%20%28Castletroy%29%20810%20x%20456_1.png?itok=kGQ2HKjE
+
+name:KFC
+phoneNumber:9515865241
+location:Plot No 11, Madras Thiruvallur High Rd, Secretariat Colony, Venkatapuram, Ambattur, Chennai, Tamil Nadu 600053
+email:enquiry@kfc.com
+imageUrl:https://content.jdmagicbox.com/comp/chennai/p2/044pxx44.xx44.180703123009.x6p2/catalogue/kfc-opening-shortly--anna-nagar-chennai-restaurants-1Gpty591sQ.jpg
+
+name:Palmshore
+phoneNumber:9825154515
+location:95, Jawaharlal Nehru Salai Jaffarkhanpett, near Kasi Theatre, Ashok Nagar, Chennai, Tamil Nadu 600083
+email:contact@palmshore.com
+imageUrl:https://image3.mouthshut.com/images/imagesp/925638432s.png
+
+name:Writer's Cafe
+phoneNumber: 9262623558
+location:127, Peters Rd, Gopalapuram, Chennai, Tamil Nadu 600086
+email:contact@writerscafe.com
+imageUrl:https://im.whatshot.in/img/2020/Jul/writes-cafe-store-pic-1594369084.jpg
+
+name:Subway
+phoneNumber:8556455568
+Location:Old # 20 New # 29 Chamiers Rd, Shop #2, Nandanam, Chennai, Tamil Nadu 600035
+email:conatct@subway.com
+imageUrl:https://cdn.britannica.com/08/193908-050-66767D57/view-Subway-restaurant-Bangkok-Thailand.jpg
+
+name:Saravana Bhavan
+phoneNumber:984516158
+Location:19, Palani Andavar Koil St, Vadapalani, Chennai, Tamil Nadu 600026
+email:hsbuae@saravanabhavan.com
+Photo:https://content3.jdmagicbox.com/comp/chennai/15/044ppe01515/catalogue/hotel-saravana-bhavan-admin-office-vadapalani-chennai-tandoori-1dfphti.jpg?clr=2b2b3b
+
+name:Sangeetha Veg Restaurant
+phoneNumber:8471689684
+Location:102/82, Gopathi Narayanaswami Chetty Rd, Parthasarathi Puram, T. Nagar, Chennai, Tamil Nadu 600017
+email:contact@sangeetha.com
+Photo:https://image3.mouthshut.com/images/imagesp/925816251s.png
