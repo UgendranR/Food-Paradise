@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 50px;
+   
+  }
+  h1{
+    margin-top: 50px;
+
+  }
+
